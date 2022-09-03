@@ -7,7 +7,7 @@ Dev by heart
 Graduated in Computer Systems from Universidade Federal Fluminense - UFF (2016). I am currently a business assistant at Banco do Brasil S.A.. I have some experience in the area of Computer Science, with emphasis on Programming Languages, Embedded Systems, Relational Databases and Linux. I'm updating myself on new technologies in the market, taking courses and certifications, focusing on back-end, front-end and data science development.
 
 * 🌍  I'm based in Santo Antônio de Pádua, Rio de Janeiro, Brazil
-* 🖥️  See my portfolio at [just a Loan Simulator in VueJS](http://https://hugobereta.github.io/simulador-sac/)
+* 🖥️  See my portfolio at [just a Loan Simulator in VueJS](https://hugobereta.github.io/simulador-sac/)
 * ✉️  You can contact me at [hugo\_bereta@yahoo.com.br](mailto:hugo_bereta@yahoo.com.br)
 * 🧠  I'm learning Python, Machine Learning, VueJS, NodeJS and Typescript
 * ⚡  I'm a father, husband, coffee lover, hypnotist, airsoft player and guitarist. Uhh..and bank employee at free hours :P
